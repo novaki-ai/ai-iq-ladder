@@ -1,0 +1,8 @@
+The pattern is:
+
+[m n o p]
+[m n o p q]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is "q" since it is not present in the pattern.

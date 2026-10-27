@@ -1,0 +1,22 @@
+{
+ "note": "Published GPT-3 (text-davinci-003, December 2022) accuracy from Webb, Holyoak & Lu (2023), on the same kinds of puzzle but the paper's own items, not these new ones. Source: github.com/taylorwwebb/emergent_analogies_LLM (digit_mat/exp1_all_data.csv, human_vs_gpt=1; letter_string/GPT3_results/all_gen_acc.npz). Not our run.",
+ "rungs": {
+  "1": 1.0,
+  "2": 0.854,
+  "3": 0.693,
+  "4": 0.503,
+  "5": 0.8,
+  "6": 0.357,
+  "7": 0.243
+ },
+ "students": {
+  "1": 0.849,
+  "2": 0.578,
+  "3": 0.523,
+  "4": 0.421,
+  "5": 0.386,
+  "6": 0.348,
+  "7": 0.284
+ },
+ "ladder_height": 6
+}

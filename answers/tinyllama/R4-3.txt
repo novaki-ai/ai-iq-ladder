@@ -1,0 +1,10 @@
+The pattern is:
+
+[w x y z]
+[v x y z]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is:
+
+[ ? ]

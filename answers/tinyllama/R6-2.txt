@@ -1,0 +1,9 @@
+The pattern is:
+
+h i j k e
+h i j k l
+x v t r y
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is "x", which is not present in the pattern.

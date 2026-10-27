@@ -1,0 +1,12 @@
+The pattern is:
+
+[q r s t]
+[q r s u]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is:
+
+[j x k x l x m x]
+
+So, the answer is:

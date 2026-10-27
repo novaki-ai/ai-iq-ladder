@@ -1,0 +1,11 @@
+The pattern is:
+
+g h i j
+n o p q r
+s t u
+
+The missing part is "k" which is written in square brackets like the other parts.
+
+The correct answer is:
+
+[g h i j] [n o p q r] [s

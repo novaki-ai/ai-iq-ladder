@@ -1,0 +1,6 @@
+The pattern is:
+
+- "s" followed by "t", "u", "v", or "w"
+- "r" or "n" followed by "p", "l", "t"
+- "s" followed by "u", "v", or "w"
+-

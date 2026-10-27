@@ -1,0 +1,8 @@
+The pattern is:
+
+- [m n o q]
+- [i g e c]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is "i" (the first letter of the word "i" in the pattern).

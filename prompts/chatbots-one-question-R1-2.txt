@@ -1,0 +1,7 @@
+This is a puzzle from a reasoning test. It shows a pattern with one missing part marked [ ? ].
+Find the pattern and give the missing part, written in square brackets like the other parts.
+Reply with only your answer.
+
+[8] [6] [4]
+[6] [4] [2]
+[4] [2] [ ? ]

@@ -1,0 +1,12 @@
+The pattern is:
+
+[u b c d e]
+[a b c d e]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is:
+
+[a b c d e]
+
+So, the answer is:

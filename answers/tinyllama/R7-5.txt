@@ -1,0 +1,7 @@
+The pattern is:
+
+[o p q r] [o p q r s]
+[25 0 24 0 23 0 22 0]
+[ ? ]
+
+The missing part is marked with a square bracket like the other parts.

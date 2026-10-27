@@ -1,0 +1,10 @@
+The pattern is:
+
+[6] [4] [2]
+[4] [2] [ ? ]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is:
+
+[4] [2]

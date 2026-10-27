@@ -1,0 +1,13 @@
+The pattern is:
+
+1. 9
+2. 5
+3. 7
+4. 7
+5. 2
+6. 0
+7. 7
+
+The missing part is marked with an asterisk (*) in square brackets.
+
+The missing part is

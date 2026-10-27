@@ -1,0 +1,13 @@
+The pattern is:
+
+1. 9
+2. 8
+3. 0
+4. 8
+5. 0
+
+The missing part is marked with an [ ? ] in square brackets.
+
+The missing part is:
+
+[8] [8 0] [

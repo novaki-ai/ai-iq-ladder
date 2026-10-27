@@ -1,0 +1,9 @@
+The pattern is:
+
+[2] [0] [2 0]
+[6] [5] [6 5]
+[2 6] [0 5]
+
+The missing part is marked with an asterisk (*) in square brackets.
+
+The missing part is

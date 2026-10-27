@@ -1,0 +1,10 @@
+The pattern is:
+
+t u v w
+t u v x
+n l j h
+
+The missing part is "n" (which is marked with a square bracket).
+
+Reply:
+n

@@ -1,0 +1,7 @@
+The pattern is:
+
+[5 6]
+[6 5]
+[7 4]
+
+The missing part is marked [ ? ] because it is not present in the pattern.

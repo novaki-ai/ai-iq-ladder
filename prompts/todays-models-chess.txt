@@ -1,0 +1,17 @@
+Note: do not create files, run commands, write code or use tools; reply directly.
+
+Chess puzzle. White to move and checkmate in two moves.
+Position (FEN): 5r1r/ppq3kp/4Q1pR/1b3P2/2pP2p1/P3P1P1/5KP1/7R w - - 1 26
+
+. . . . . r . r
+p p q . . . k p
+. . . . Q . p R
+. b . . . P . .
+. . p P . . p .
+P . . . P . P .
+. . . . . K P .
+. . . . . . . R
+
+(Uppercase = White, lowercase = Black, top row = rank 8.)
+
+Reply with only the first move, in standard algebraic notation (for example Qh7+).

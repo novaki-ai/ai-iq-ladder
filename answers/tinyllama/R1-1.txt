@@ -1,0 +1,11 @@
+The pattern is:
+
+[8] [8] [8]
+[5] [5] [5]
+[0] [0] [ ? ]
+
+The missing part is marked with an asterisk (*) in square brackets.
+
+The missing part is:
+
+[5

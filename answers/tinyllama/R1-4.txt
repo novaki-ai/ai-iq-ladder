@@ -1,0 +1,9 @@
+The pattern is:
+
+1. 9
+2. 8
+3. [ ? ]
+
+The missing part is marked with an asterisk (*) in the given pattern.
+
+To find the missing part, we need to find the position of the asterisk in the pattern. In

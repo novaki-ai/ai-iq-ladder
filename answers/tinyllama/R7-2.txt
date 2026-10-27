@@ -1,0 +1,13 @@
+The pattern is:
+
+[m n o p]
+[l n o p]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is:
+
+[l n o p]
+
+Reply:
+The missing part is [l]

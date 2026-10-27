@@ -1,0 +1,18 @@
+Looking at this position, White has a powerful queen on e6 and rook on h6 with the Black king trapped on g7.
+
+Let me analyze the key move: **Qe7+**
+
+This gives check to the king on g7. The king's only legal moves are:
+- Kg8 (Kf7 is controlled by the queen, Kf6 is controlled by the queen, Kg6 is blocked by Black's own pawn, Kh8, Kh7, and Kh6 are all either occupied or controlled by the rook)
+- Kh8 (Kf8 is blocked by Black's rook)
+
+After **1...Kg8**, White plays **2.Qf8#** — the king cannot escape:
+- Kf7, Kg7, Kh8 are all controlled by the queen
+- Kh7 is controlled by the rook on h6
+
+After **1...Kh8**, White plays **2.Qf7#** — again no escape:
+- Kg8 is controlled by the queen (diagonal)
+- Kg7 is controlled by the queen (7th rank)  
+- Kh7 is occupied by Black's own pawn
+
+**Qe7+**

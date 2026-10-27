@@ -1,0 +1,10 @@
+The pattern is:
+
+- P is the missing part
+- Q, R, S, and T are the other parts
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is:
+
+- [q q s s u u y y w w

@@ -1,0 +1,7 @@
+The pattern is:
+
+7
+6
+5
+
+The missing part is marked [ ? ] because it is not present in the pattern.

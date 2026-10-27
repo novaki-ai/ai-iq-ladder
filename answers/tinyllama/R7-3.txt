@@ -1,0 +1,7 @@
+The pattern is:
+
+r s t u e
+r s t u v
+y y w w u u s s f f
+
+The missing part is "y" which is written in square brackets like the other parts.

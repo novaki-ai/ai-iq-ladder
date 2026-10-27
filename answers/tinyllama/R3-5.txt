@@ -1,0 +1,9 @@
+The pattern is:
+
+[9 3 0]
+[0 4 6]
+[6 6 1]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is the second element in the second row, which is 6

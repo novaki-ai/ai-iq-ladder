@@ -1,0 +1,7 @@
+The pattern is:
+
+[7 9] [6 4]
+[5 1]
+[ ? ]
+
+The missing part is marked with an asterisk (*) in the square brackets.

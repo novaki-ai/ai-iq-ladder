@@ -1,0 +1,8 @@
+The pattern is:
+
+[l m n n o p]
+[w v u t s r r q p]
+
+The missing part is "p" in the second line.
+
+The correct answer is "p".

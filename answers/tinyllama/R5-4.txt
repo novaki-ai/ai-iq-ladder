@@ -1,0 +1,15 @@
+The pattern is:
+
+6 1 0 3
+0 1
+6 3
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is:
+
+[ ? ]
+
+The answer is:
+
+[0 6]

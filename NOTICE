@@ -1,0 +1,10 @@
+The 42 puzzles were newly generated for this test with the puzzle generators released by
+Taylor Webb, Keith Holyoak and Hongjing Lu for "Emergent analogical reasoning in large language models"
+(Nature Human Behaviour, 2023): https://github.com/taylorwwebb/emergent_analogies_LLM (Apache License 2.0).
+The student percentages that set each rung come from that paper's released human data.
+
+The chess puzzle is from the Lichess puzzle database (CC0): https://lichess.org/training/13iFr
+
+ELIZA ran as Anthony Hay's eliza.cpp (CC0) with the DOCTOR script from Weizenbaum's 1966 paper.
+Stockfish 19 (GPL-3.0), llama.cpp (MIT), GPT-2 XL (MIT), TinyLlama (Apache-2.0) and Qwen2.5-0.5B-Instruct
+(Apache-2.0) were used to produce the answers; none of them is included here.

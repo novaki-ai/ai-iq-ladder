@@ -1,0 +1,8 @@
+The pattern is:
+
+[s t d v w]
+[s x r x q x p x o x n x m x z x k x]
+
+The missing part is marked with a square bracket like the other parts.
+
+The missing part is "z" since it is not

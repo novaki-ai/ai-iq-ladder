@@ -1,0 +1,7 @@
+The pattern is:
+
+[8 0] [6 1] [4 3]
+[6 1] [4 3] [2 0]
+[4 3] [2 0] [ ? ]
+
+The missing part is marked with a square bracket like

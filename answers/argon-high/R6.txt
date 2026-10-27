@@ -1,0 +1,6 @@
+R6-1: [q q s s u u w w y y]
+R6-2: [x v t r p]
+R6-3: [w v u t s r q p o]
+R6-4: [17 18 19 20 21 22 23 24 25]
+R6-5: [i g e a]
+R6-6: [n l j f]

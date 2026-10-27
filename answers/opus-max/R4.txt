@@ -1,0 +1,6 @@
+R4-1: [l n p r t]
+R4-2: [j x k x l x n x]
+R4-3: [7 9 10 11]
+R4-4: [n o p q r s t v]
+R4-5: [l l n n o o p p]
+R4-6: [u t s r q]

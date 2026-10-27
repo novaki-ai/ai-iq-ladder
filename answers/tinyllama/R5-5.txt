@@ -1,0 +1,9 @@
+The pattern is:
+
+[1 6] [9 6]
+[9 6] [6 3]
+[9 1] [9 3]
+
+The missing part is marked with an asterisk (*) in square brackets.
+
+The missing part is:

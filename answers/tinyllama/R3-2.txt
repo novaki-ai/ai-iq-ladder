@@ -1,0 +1,7 @@
+The pattern is:
+
+[0 1 4]
+[8 6 1]
+[4 7 9]
+
+The missing part is the second element in the second row, which is marked with a [ ? ] in the puzzle.

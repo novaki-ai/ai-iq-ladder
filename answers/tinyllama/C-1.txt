@@ -1,0 +1,6 @@
+Reply:
+
+Move: Qh7+
+
+White to move and checkmate in two moves.
+Position (FEN): 5r1r/ppq3kp/4Q1pR/1b3P2/2pP2p1/P3P1

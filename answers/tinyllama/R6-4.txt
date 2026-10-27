@@ -1,0 +1,8 @@
+The pattern in the given text is:
+
+[i m n o p]
+[l m n o p]
+
+The missing part is marked with a square bracket like the other parts. The missing part is "23", which is not present in the given text.
+
+Reply with
